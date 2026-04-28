@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Git repository management",
   "author": "ProjectRose",
+  "latin": "Rosa propaginis",
   "navItem": { "label": "Git", "iconName": "git" },
   "provides": { "pageView": true, "main": true }
 }
