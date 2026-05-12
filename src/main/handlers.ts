@@ -1,6 +1,6 @@
 import { ipcMain } from 'electron'
 import * as git from './service'
-import type { ExtensionMainContext } from './types'
+import type { ExtensionMainContext } from '../../../../ProjectRose/src/shared/extension-contract'
 import { watch, type FSWatcher } from 'fs'
 import { join } from 'path'
 

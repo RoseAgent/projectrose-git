@@ -6,5 +6,5 @@
   "author": "ProjectRose",
   "latin": "Rosa propaginis",
   "navItem": { "label": "Git", "iconName": "git" },
-  "provides": { "pageView": true, "main": true }
+  "provides": { "pageView": true, "main": true, "broadcast": true }
 }
